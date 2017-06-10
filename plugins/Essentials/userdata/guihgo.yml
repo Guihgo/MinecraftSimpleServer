@@ -1,0 +1,57 @@
+uuid: a0e82ffb-10d1-29a2-cbdf-07efbd82f6b4
+timestamps:
+  login: 1497072488964
+  lastteleport: 1497072070291
+  logout: 1497072489435
+ipAddress: 187.95.127.128
+homes:
+  casa:
+    world: world
+    x: -339.0994359507489
+    y: 63.0
+    z: 536.2684450047049
+    yaw: -268.10147
+    pitch: 13.799983
+  mina:
+    world: world
+    x: -158.4657066165176
+    y: 16.0
+    z: 553.6293151834781
+    yaw: 328.30237
+    pitch: 40.50001
+  arvores:
+    world: world
+    x: -861.3489533515135
+    y: 68.0
+    z: 756.2771639832977
+    yaw: 74.86221
+    pitch: 9.150013
+  arvores2:
+    world: world
+    x: -1121.1024574835787
+    y: 72.0
+    z: 501.14164035144927
+    yaw: 159.46172
+    pitch: 3.750011
+  deserto:
+    world: world
+    x: -2123.688977684585
+    y: 70.0
+    z: -49.314138771978755
+    yaw: -205.6372
+    pitch: 13.050003
+lastlocation:
+  world: world
+  x: -730.5
+  y: 63.0
+  z: -345.5
+  yaw: 0.0
+  pitch: 0.0
+money: '850'
+logoutlocation:
+  world: world
+  x: -743.0792807017814
+  y: 22.0
+  z: -292.70090513574985
+  yaw: -129.94545
+  pitch: 28.200317
