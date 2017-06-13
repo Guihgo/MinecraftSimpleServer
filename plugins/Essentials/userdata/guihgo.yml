@@ -1,8 +1,8 @@
 uuid: a0e82ffb-10d1-29a2-cbdf-07efbd82f6b4
 timestamps:
-  login: 1497072488964
-  lastteleport: 1497072070291
-  logout: 1497072489435
+  login: 1497235962711
+  lastteleport: 1497235718380
+  logout: 1497235995035
 ipAddress: 187.95.127.128
 homes:
   casa:
@@ -40,18 +40,40 @@ homes:
     z: -49.314138771978755
     yaw: -205.6372
     pitch: 13.050003
+  obsidian:
+    world: world
+    x: -297.67167420078493
+    y: 12.0
+    z: 566.3847072278488
+    yaw: 270.247
+    pitch: 38.10003
+  nether:
+    world: world_nether
+    x: -335.3833680432722
+    y: 76.0
+    z: -95.18272372542073
+    yaw: -50.548714
+    pitch: 22.349888
+  jungle:
+    world: world
+    x: -1261.949798524847
+    y: 74.0
+    z: -1141.5345590538816
+    yaw: 187.51279
+    pitch: 1.9499978
 lastlocation:
   world: world
-  x: -730.5
-  y: 63.0
-  z: -345.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -686.6974129640673
+  y: 66.0
+  z: -362.14772617559515
+  yaw: -256.20004
+  pitch: 22.799982
 money: '850'
 logoutlocation:
   world: world
-  x: -743.0792807017814
-  y: 22.0
-  z: -292.70090513574985
-  yaw: -129.94545
-  pitch: 28.200317
+  x: -754.0956223949684
+  y: 63.0
+  z: -348.7819114809386
+  yaw: -267.19766
+  pitch: 13.799963
+afk: false
